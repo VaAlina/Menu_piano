@@ -1,0 +1,15 @@
+div{
+background: #aaa;    
+}
+.menu{
+background:white;
+height:20px;
+width:100px;
+padding: 10px;    
+}
+.menu_black{
+background:black;
+height:10px;
+width:50px;
+padding: 10px;
+}
